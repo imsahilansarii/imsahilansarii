@@ -1,4 +1,4 @@
-<div align="center"><h1>Привет, я mudachyo <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50"></h1>
+<div align="center"><h1>Hey, I'm imsahilansarii <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50"></h1>
 <p align="center">🌱 Хотелось бы <b>выжить</b> хотя бы.</p>
 
 <a href="http://t.me/mudachyo"><img src="https://img.shields.io/badge/Telegram-%232E87FB?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
@@ -7,7 +7,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=imsahilansarii&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=imsahilansarii&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
